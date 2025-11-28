@@ -1,1 +1,2 @@
 # Inne-generatory-wolnej-energi-i-rozwi-zania.-
+Można jeszcze zbudować Cardcomputer z stoperem i generatorem reaktorem Łukowym i małym akumulatorem i zasilać tak reaktor z 2 akumaltorami 1 na reaktor łukowy 2 na odbiorniki energi elektrycznej i wszystko w puszce z wtyczką. Stoper kontroluje ładowanie i rozładowanie akumulatorów i reaktora łukowego. Przerw nie ma w tym rozwiazaniu przerw w dostawach energi.
